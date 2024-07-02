@@ -1,16 +1,14 @@
-## Hi there 👋
+<h3 align="center"> Hi there </h3>
 
-<!--
-**Armstain/armstain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Nazmul Hossain, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+💻 full stack developer | 💬 connect <a href="https://twitter.com/Armstain">Armstain</a>
+</h4>
+<p  align="center">
+<a href="https://github.com/Armstain/">https://github.com/Armstain/</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
