@@ -1,8 +1,10 @@
-# 💫 Nazmul Hossain | Full Stack Developer
+# 💫 Nazmul Hossain Adnan | Full Stack Developer
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Nazmul;Full+Stack+Web+Developer;Turning+Ideas+into+Reality!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Adnan;Full+Stack+Web+Developer;Turning+Ideas+into+Reality!)
+
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=armstain&color=blueviolet&style=for-the-badge)](https://github.com/armstain)
 [![GitHub User's stars](https://img.shields.io/github/stars/armstain?logo=github&style=for-the-badge&color=yellow)](https://github.com/armstain)
