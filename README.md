@@ -5,27 +5,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Nazmul;Full+Stack+Web+Developer;Turning+Ideas+into+Reality!)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=armstain&color=blueviolet&style=for-the-badge)](https://github.com/armstain)
-[![GitHub followers](https://img.shields.io/github/followers/armstain?logo=github&style=for-the-badge&color=0969da)](https://github.com/armstain)
 [![GitHub User's stars](https://img.shields.io/github/stars/armstain?logo=github&style=for-the-badge&color=yellow)](https://github.com/armstain)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const nazmul = {
-    name: "Nazmul Hossain",
-    role: "Full Stack Web Developer",
-    location: "Bangladesh 🇧🇩",
-    passion: "Building web solutions that make a difference",
-    currentFocus: "Modern web technologies & scalable applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-
-console.log("Welcome to my GitHub profile!");
-```
 
 🎯 **What I Do:**
 - 🔥 Build responsive and dynamic web applications
@@ -42,9 +27,7 @@ console.log("Welcome to my GitHub profile!");
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/https://discord.com/invite/6CHR25Jh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/nazmul-hossain-adnan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/armstain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:nazmulhossainadnan0@gmail.com)
 
 </div>
 
@@ -109,85 +92,15 @@ console.log("Welcome to my GitHub profile!");
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=armstain&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armstain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armstain&layout=compact&theme=radical&hide_border=true"/>
-
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armstain&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 ### 📊 Contribution Graph
 [![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armstain&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
 
-## 🎯 Current Focus
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Full Stack Development))
-    Frontend
-      React Ecosystem
-      Modern CSS
-      UI/UX Design
-    Backend
-      Node.js APIs
-      Database Design
-      Authentication
-    DevOps
-      CI/CD Pipelines
-      Cloud Deployment
-      Performance Optimization
-```
-
-</div>
-
----
-
-## 🎨 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/armstain/armstain/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Amazing Together!
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-⭐ **If you find my work interesting, consider giving it a star!** ⭐
-
-</div>
