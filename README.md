@@ -17,20 +17,17 @@
 
 I love blending logic and design to create interfaces that feel **alive and intentional**. Currently building toward high-impact **SaaS** and **AI-driven products** — obsessing over clean architecture, thoughtful UX, and shipping things that actually matter.
 
+- 🔭 &nbsp;Currently at Innovate Solutions
 - 🔭 &nbsp;Always working on something new
-- 🧠 &nbsp;Currently exploring AI-integrated product patterns
-- 🌍 &nbsp;Based in Dhaka, Bangladesh
-- 📬 &nbsp;Reach me at [nazmulhossainadnan0@gmail.com](mailto:nazmulhossainadnan0@gmail.com)
-
+- 🧠 &nbsp;Currently exploring AI
+- 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/https://discord.com/invite/6CHR25Jh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/nazmul-hossain-adnan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/armstain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:nazmulhossainadnan0@gmail.com)
 
@@ -48,20 +45,12 @@ I love blending logic and design to create interfaces that feel **alive and inte
 | **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000?style=flat-square&logo=shadcnui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) |
-| **Tooling** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
+| **Tooling** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Pullstate](https://img.shields.io/badge/Pullstate-764ABC?style=flat-square&logo=redux&logoColor=white) |
 | **Deploy** | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=armstain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armstain&layout=compact&theme=radical&hide_border=true"/>
 
 ### 📊 Contribution Graph
 [![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armstain&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
