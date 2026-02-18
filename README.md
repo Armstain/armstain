@@ -15,12 +15,12 @@
 
 > Curious by default, developer by choice.
 
-I love blending logic and design to create interfaces that feel **alive and intentional**. Currently building toward high-impact **SaaS** and **AI-driven products** — obsessing over clean architecture, thoughtful UX, and shipping things that actually matter.
+I love blending logic and design to create interfaces that feel **alive and intentional**. Currently building toward high-impact **SaaS** and **AI-driven products** obsessing over clean architecture, thoughtful UX, and shipping things that actually matter.
 
 - 🔭 &nbsp;Currently at Innovate Solutions
 - 🔭 &nbsp;Always working on something new
 - 🧠 &nbsp;Currently exploring AI
-- 
+
 ---
 
 ## 🌐 Connect With Me
