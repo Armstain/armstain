@@ -13,13 +13,9 @@
 
 ## 👾 About Me
 
-> Curious by default, developer by choice.
-
-I love blending logic and design to create interfaces that feel **alive and intentional**. Currently building toward high-impact **SaaS** and **AI-driven products** obsessing over clean architecture, thoughtful UX, and shipping things that actually matter.
+I build fast, scalable web applications, focusing on clean UI, performance, and real-world products. Currently exploring AI-powered development and modern full-stack architectures.
 
 - 🔭 &nbsp;Currently at Innovate Solutions
-- 🔭 &nbsp;Always working on something new
-- 🧠 &nbsp;Currently exploring AI
 
 ---
 
@@ -52,7 +48,16 @@ I love blending logic and design to create interfaces that feel **alive and inte
 
 ---
 
-### 📊 Contribution Graph
-[![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armstain&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armstain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armstain&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+### 📊 Contribution Graph
+[![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armstain&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
