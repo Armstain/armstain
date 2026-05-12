@@ -52,8 +52,8 @@ I build fast, scalable web applications, focusing on clean UI, performance, and 
 
 <div align="center">
 
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armstain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armstain&layout=compact&theme=tokyonight&hide_border=true)
+![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armstain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armstain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
