@@ -24,7 +24,6 @@ I build fast, scalable web applications, focusing on clean UI, performance, and 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/nazmul-hossain-adnan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:nazmulhossainadnan0@gmail.com)
 
 </div>
@@ -47,15 +46,6 @@ I build fast, scalable web applications, focusing on clean UI, performance, and 
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armstain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armstain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-</div>
 
 ---
 
