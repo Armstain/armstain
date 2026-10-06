@@ -2,12 +2,12 @@
 
 # Nazmul Hossain Adnan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Full+Stack+Developer;Turning+Ideas+into+Reality!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Full+Stack+Developer;Turning+Ideas+into+Reality!)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-hossain-adnan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhossainadnan0@gmail.com)
 <!-- Add your portfolio once it's live:
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
 -->
 
 </div>
@@ -46,9 +46,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armstain/armstain/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/armstain/armstain/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/armstain/armstain/main/profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armstain/armstain/main/assets/contrib-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/armstain/armstain/main/assets/contrib-light.svg" />
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/armstain/armstain/main/assets/contrib-light.svg" />
   </picture>
 </div>
 
