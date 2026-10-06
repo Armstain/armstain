@@ -1,32 +1,28 @@
-# 💫 Nazmul Hossain Adnan | Full Stack Developer
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+there+%F0%9F%91%8B+I'm+Adnan;Full+Stack+Web+Developer;Turning+Ideas+into+Reality!)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=armstain&color=blueviolet&style=for-the-badge)](https://github.com/armstain)
-[![GitHub User's stars](https://img.shields.io/github/stars/armstain?logo=github&style=for-the-badge&color=yellow)](https://github.com/armstain)
+# Nazmul Hossain Adnan
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Full+Stack+Developer;Turning+Ideas+into+Reality!)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-hossain-adnan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhossainadnan0@gmail.com)
+<!-- Add your portfolio once it's live:
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
+-->
 
 </div>
 
 ---
 
-## 👾 About Me
+## ⚡ Right Now
 
-I build fast, scalable web applications, focusing on clean UI, performance, and real-world products. Currently exploring AI-powered development and modern full-stack architectures.
-
-- 🔭 &nbsp;Currently at Innovate Solutions
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/nazmul-hossain-adnan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:nazmulhossainadnan0@gmail.com)
-
-</div>
+```
+ adnan ── live requests                                       3 captured
+ ───────────────────────────────────────────────────────────────────────
+ GET   /into       200  apps that feel fast, not just benchmark fast
+ GET   /exploring  206  full-stack patterns that survive real users
+ GET   /stuck-on   102  a cache bug. it's always a cache bug
+```
 
 ---
 
@@ -41,12 +37,25 @@ I build fast, scalable web applications, focusing on clean UI, performance, and 
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) |
 | **Tooling** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Pullstate](https://img.shields.io/badge/Pullstate-764ABC?style=flat-square&logo=redux&logoColor=white) |
-| **Deploy** | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
 ---
 
+## 📊 Contributions
 
-### 📊 Contribution Graph
-[![Nazmul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armstain&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armstain/armstain/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/armstain/armstain/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/armstain/armstain/main/profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**↓ My best work is pinned below ↓**
+
+</div>
