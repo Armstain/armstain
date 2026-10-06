@@ -1,0 +1,31 @@
+name: Contribution waveform
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # once a day (midnight in Dhaka)
+  workflow_dispatch: # run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate SVGs
+        run: node .github/scripts/contrib-wave.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets
+          if git commit -m "update contribution waveform"; then
+            git push
+          fi
