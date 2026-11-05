@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="132" viewBox="0 0 700 132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Public GitHub activity: 1147 commits, 66 pull requests">
+<style>
+:root{--bg:#ffffff;--bd:#d0d7de;--tile:#f6f8fa;--fg:#1f2328;--mute:#59636e;--acc:#1a7f37}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--bd:#30363d;--tile:#161b22;--fg:#f0f6fc;--mute:#9198a1;--acc:#3fb950}}
+.h{font-size:13px;fill:var(--mute);letter-spacing:.04em;text-transform:uppercase}
+.num{font-size:26px;font-weight:700;fill:var(--acc)}.lab{font-size:12.5px;fill:var(--fg)}.dim{fill:var(--mute)}
+.tile{fill:var(--tile);stroke:var(--bd)}
+</style>
+<rect x=".5" y=".5" width="699" height="131" rx="12" fill="var(--bg)" stroke="var(--bd)"/>
+<text x="24" y="34" class="h">Public GitHub activity</text><rect x="24" y="52" width="320" height="68" rx="10" class="tile"/>
+<text x="40" y="86" class="num">1,147</text>
+<text x="40" y="107" class="lab">Commits</text><rect x="356" y="52" width="320" height="68" rx="10" class="tile"/>
+<text x="372" y="86" class="num">66</text>
+<text x="372" y="107" class="lab">Pull requests</text>
+</svg>
