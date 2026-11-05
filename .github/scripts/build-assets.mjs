@@ -38,17 +38,6 @@ const badges = [
   ["portfolio", "Portfolio", "#2ea043"],
   ["linkedin", "LinkedIn", "#0a66c2"],
   ["email", "Email", "#d14836"],
-  ["react", "React", "#61dafb"],
-  ["typescript", "TypeScript", "#3178c6"],
-  ["tailwind", "Tailwind", "#38bdf8"],
-  ["shadcn", "shadcn/ui", "#8b949e"],
-  ["express", "Express", "#8b949e"],
-  ["firebase", "Firebase", "#ffca28"],
-  ["mongodb", "MongoDB", "#47a248"],
-  ["postgresql", "PostgreSQL", "#4169e1"],
-  ["prisma", "Prisma", "#5a67d8"],
-  ["stripe", "Stripe", "#635bff"],
-  ["vite", "Vite", "#646cff"],
 ];
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
 for (const [file, label, dot] of badges) {

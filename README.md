@@ -16,51 +16,77 @@ I build full-stack web apps — fast React interfaces, the Node backends behind 
 
 ## ◆ Selected Work
 
-#### [UrbanDrive](https://cheery-bubblegum-eecb30.netlify.app/)
+#### [NetLens](https://github.com/Armstain/NetLens)
 
-<img align="right" src="https://i.ibb.co.com/Rgbrj3v/Screenshot-2024-11-12-at-18-37-02-Urban-Drive.png" width="380" alt="UrbanDrive car rental platform">
+<img align="right" src="assets/projects/netlens.webp" width="380" alt="NetLens side panel listing a page’s API calls">
 
-A car rental platform where users browse, book and manage rentals, with live availability, live chat support and an admin dashboard for approving listings. React and TypeScript on the front end, Node and Express with MongoDB behind it, and Firebase handling authentication.
+A page’s API calls — payloads, responses, headers — in a Chrome side panel, with no DevTools open. Calls fired during page load are caught anyway, and any request can be edited, replayed and diffed. Tokens are decoded in place, and you can click an element on the page to trace it to the API field behind it.
 
-![React](assets/badges/react.svg) ![TypeScript](assets/badges/typescript.svg) ![Tailwind](assets/badges/tailwind.svg) ![Express](assets/badges/express.svg) ![MongoDB](assets/badges/mongodb.svg) ![Firebase](assets/badges/firebase.svg)
+<sub><code>JavaScript · Chrome extension · MCP</code></sub>
 
-**[Live app](https://cheery-bubblegum-eecb30.netlify.app/)** · **[Client](https://github.com/Armstain/UrbanDrive)** · **[Server](https://github.com/aayman01/UrbanDrive-Server)**
-
-<br clear="all">
-
-#### [ExpressLane](https://expreane-c2384.web.app/)
-
-<img align="right" src="https://i.ibb.co/s9PFVwn/Screenshot-2024-07-04-at-17-22-45-Express-Lane.png" width="380" alt="ExpressLane parcel delivery application">
-
-Parcel delivery, simplified: book a pickup in under a minute, follow every step of the journey, and pay once it arrives. Includes real-time tracking, user authentication and an admin dashboard. A React and Vite front end sits on an Express API with Prisma and PostgreSQL, Stripe handles payments, and CI runs on every push.
-
-![React](assets/badges/react.svg) ![Vite](assets/badges/vite.svg) ![Tailwind](assets/badges/tailwind.svg) ![Express](assets/badges/express.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Prisma](assets/badges/prisma.svg) ![Stripe](assets/badges/stripe.svg)
-
-**[Live app](https://expreane-c2384.web.app/)** · **[Source](https://github.com/Armstain/Expresslane)**
+**[Source](https://github.com/Armstain/NetLens)**
 
 <br clear="all">
 
-#### [Roomify](https://roomify-3c4bc.web.app/)
+#### [Smart Class Search](https://marketplace.visualstudio.com/items?itemName=armstain.smart-class-lookup)
 
-<img align="right" src="https://i.ibb.co/Dzkzxb4/Screenshot-2024-07-04-at-17-23-33-Roomify.png" width="380" alt="Roomify room rental platform">
+<img align="right" src="assets/projects/smart-class-lookup.webp" width="380" alt="Smart Class Search sidebar in VS Code finding a component from a class list">
 
-A room-rental platform that connects room seekers and landlords: browse, search and filter listings, request and manage bookings, and get email notifications as bookings change. JWT authentication, and a responsive layout built with Tailwind and shadcn/ui.
+Paste a class list copied from DevTools and jump to the component that renders it — even through `cn()`, `clsx()`, template literals and conditionals. Over 4,000 downloads across the VS Code Marketplace and Open VSX; parsing runs in worker threads so the editor stays responsive.
 
-![React](assets/badges/react.svg) ![Tailwind](assets/badges/tailwind.svg) ![shadcn/ui](assets/badges/shadcn.svg) ![Express](assets/badges/express.svg) ![MongoDB](assets/badges/mongodb.svg)
+<sub><code>TypeScript · VS Code API · Babel · Worker threads</code></sub>
 
-**[Live app](https://roomify-3c4bc.web.app/)** · **[Source](https://github.com/Armstain/roomify)**
+**[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=armstain.smart-class-lookup)** · **[Open VSX](https://open-vsx.org/extension/nazmul-hossain-adnan/smart-class-lookup)** · **[Source](https://github.com/Armstain/smart-class-lookup)**
 
 <br clear="all">
 
-#### [Stay Vista](https://real-estate-auth-aa66d.web.app/)
+#### [DevRadar](https://dev-radar-gold.vercel.app)
 
-<img align="right" src="https://i.ibb.co/m0237JX/Screenshot-2024-07-04-at-17-25-44-Details.png" width="380" alt="Stay Vista property listing details page">
+<img align="right" src="assets/projects/devradar.webp" width="380" alt="DevRadar fit report with a skills radar and a 95 fit score">
 
-A stays and real-estate listing site built with React, responsive across devices, styled with Tailwind CSS and secured with Firebase authentication.
+A job-search platform that combines organisation, analytics and AI interview preparation. Each job post gets a fit report: a score, how your code and CV match each requirement, a skills radar, and a way into interview prep.
 
-![React](assets/badges/react.svg) ![Tailwind](assets/badges/tailwind.svg) ![Firebase](assets/badges/firebase.svg)
+<sub><code>TypeScript · Next.js · Drizzle · Gemini</code></sub>
 
-**[Live app](https://real-estate-auth-aa66d.web.app/)**
+**[Live app](https://dev-radar-gold.vercel.app)** · **[Source](https://github.com/Armstain/devRadar)**
+
+<br clear="all">
+
+#### [Mnemo](https://mnemo.nazmulhossainadnan.me/)
+
+<img align="right" src="assets/projects/mnemo.webp" width="380" alt="Mnemo mobile app home, thread and recording screens">
+
+A memory app for interrupted lives: say a thought, and AI gives it a title, a summary and a next step, so you can pick the thread back up. Voice-first capture that handles Bangla, English, or both in one sentence. Currently in progress.
+
+<sub><code>React Native · Expo · Gemini</code></sub>
+
+**[Website](https://mnemo.nazmulhossainadnan.me/)** · **[Source](https://github.com/Armstain/Mnemo)**
+
+<br clear="all">
+
+### ▸ Also built
+
+#### [CalorieMeter](https://calorietracker-puce.vercel.app)
+
+<img align="right" src="assets/projects/caloriemeter.webp" width="380" alt="CalorieMeter home screen with today’s progress and a photo capture button">
+
+Photograph a meal and get its calories and macros back. Fixing a wrong guess is one sentence — “that’s grilled, not fried”. A five-model Gemini fallback keeps it working through free-tier limits, and all data stays on the device.
+
+<sub><code>TypeScript · Next.js · TanStack Query</code></sub>
+
+**[Live app](https://calorietracker-puce.vercel.app)** · **[Source](https://github.com/Armstain/calorie-tracker)**
+
+<br clear="all">
+
+#### [ExpressLane](https://expreane-c2384.web.app)
+
+<img align="right" src="assets/projects/expresslane.webp" width="380" alt="ExpressLane parcel delivery dashboard on desktop and phone">
+
+Parcel delivery with live tracking, role-based accounts and an admin dashboard. Redesigned and rebuilt end to end: light and dark design system, server-enforced roles, a Postgres and Prisma migration, 22 automated tests in CI, and a bundle cut from 1.52 MB to 0.65 MB.
+
+<sub><code>React · Node.js · PostgreSQL · Prisma · Stripe</code></sub>
+
+**[Live app](https://expreane-c2384.web.app)** · **[Source](https://github.com/Armstain/Expresslane)**
 
 <br clear="all">
 
