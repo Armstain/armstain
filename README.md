@@ -2,7 +2,7 @@
 <img src="assets/header.svg" alt="Nazmul Hossain Adnan — Full Stack Developer" width="100%">
 <br>
 <br>
-I build full-stack web apps and developer tools — fast React and Next.js interfaces, the Node backends behind them, and the occasional browser or editor extension. I care about apps that feel fast, not just benchmark fast, and code that someone else can read and run.
+I build full-stack web apps — fast React interfaces, the Node backends behind them, and the payments, auth and booking flows in between. I care about apps that feel fast, not just benchmark fast, and code that someone else can read and run.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/nazmul-hossain-adnan/"><img src="assets/badges/linkedin.svg" alt="LinkedIn profile"></a>
@@ -16,81 +16,51 @@ I build full-stack web apps and developer tools — fast React and Next.js inter
 
 ## ◆ Selected Work
 
-### ▸ AI-powered apps
+#### [UrbanDrive](https://cheery-bubblegum-eecb30.netlify.app/)
 
-#### [Mnemo](https://github.com/Armstain/Mnemo)
+<img align="right" src="https://i.ibb.co.com/Rgbrj3v/Screenshot-2024-11-12-at-18-37-02-Urban-Drive.png" width="380" alt="UrbanDrive car rental platform">
 
-<img align="right" src="assets/projects/mnemo.svg" width="380" alt="Mnemo — voice-first memory app">
+A car rental platform where users browse, book and manage rentals, with live availability, live chat support and an admin dashboard for approving listings. React and TypeScript on the front end, Node and Express with MongoDB behind it, and Firebase handling authentication.
 
-A memory app for busy, interrupted people. It captures a thought the second it appears — usually by voice, one-handed — sorts it into threads, and shows you where you left off when you come back. Gemini transcribes Bangla, English, or both mixed in one sentence; Groq's Whisper steps in as backup, and the phone's own speech recognition takes over offline.
+![React](assets/badges/react.svg) ![TypeScript](assets/badges/typescript.svg) ![Tailwind](assets/badges/tailwind.svg) ![Express](assets/badges/express.svg) ![MongoDB](assets/badges/mongodb.svg) ![Firebase](assets/badges/firebase.svg)
 
-![Gemini](assets/badges/gemini.svg) ![Groq](assets/badges/groq.svg)
-
-**[Source](https://github.com/Armstain/Mnemo)**
+**[Live app](https://cheery-bubblegum-eecb30.netlify.app/)** · **[Client](https://github.com/Armstain/UrbanDrive)** · **[Server](https://github.com/aayman01/UrbanDrive-Server)**
 
 <br clear="all">
 
-#### [CalorieMeter](https://github.com/Armstain/calorie-tracker)
+#### [ExpressLane](https://expreane-c2384.web.app/)
 
-<img align="right" src="assets/projects/caloriemeter.svg" width="380" alt="CalorieMeter — AI calorie tracker">
+<img align="right" src="https://i.ibb.co/s9PFVwn/Screenshot-2024-07-04-at-17-22-45-Express-Lane.png" width="380" alt="ExpressLane parcel delivery application">
 
-Photograph your food and get an instant nutritional breakdown. Wrong guess? Correct it in plain language ("that's actually a large slice") and the analysis updates. Goals and meal history stay on your device, and it works offline as a PWA.
+Parcel delivery, simplified: book a pickup in under a minute, follow every step of the journey, and pay once it arrives. Includes real-time tracking, user authentication and an admin dashboard. A React and Vite front end sits on an Express API with Prisma and PostgreSQL, Stripe handles payments, and CI runs on every push.
 
-![Next.js](assets/badges/nextjs.svg) ![React](assets/badges/react.svg) ![Tailwind](assets/badges/tailwind.svg)
+![React](assets/badges/react.svg) ![Vite](assets/badges/vite.svg) ![Tailwind](assets/badges/tailwind.svg) ![Express](assets/badges/express.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Prisma](assets/badges/prisma.svg) ![Stripe](assets/badges/stripe.svg)
 
-**[Source](https://github.com/Armstain/calorie-tracker)**
-
-<br clear="all">
-
-### ▸ Developer tools
-
-#### [NetLens](https://github.com/Armstain/NetLens)
-
-<img align="right" src="assets/projects/netlens.svg" width="380" alt="NetLens — Chrome side-panel network inspector">
-
-See a page's API calls — payloads, responses, headers — in a Chrome side panel, with no DevTools and no debugger banner. It hooks `fetch` and `XMLHttpRequest` at `document_start` and keeps a per-tab buffer, so calls made during page load are still there when you open the panel. You can replay any request, edit it, and diff the new response against the original. WebSocket and SSE traffic is captured too.
-
-![Chrome Extensions](assets/badges/chrome-extensions.svg) ![JavaScript](assets/badges/javascript.svg)
-
-**[Source](https://github.com/Armstain/NetLens)**
+**[Live app](https://expreane-c2384.web.app/)** · **[Source](https://github.com/Armstain/Expresslane)**
 
 <br clear="all">
 
-#### [Smart Class Search](https://github.com/Armstain/smart-class-lookup)
+#### [Roomify](https://roomify-3c4bc.web.app/)
 
-<img align="right" src="assets/projects/smart-class-lookup.svg" width="380" alt="Smart Class Search — VS Code extension">
+<img align="right" src="https://i.ibb.co/Dzkzxb4/Screenshot-2024-07-04-at-17-23-33-Roomify.png" width="380" alt="Roomify room rental platform">
 
-Copy a class list out of Chrome DevTools, paste it into VS Code, and jump straight to the component that renders it — even when the classes are spread across `cn()`, `clsx()`, template literals, ternaries, and `&&` conditionals that plain text search can never match. Files are parsed in background worker threads so the editor stays responsive.
+A room-rental platform that connects room seekers and landlords: browse, search and filter listings, request and manage bookings, and get email notifications as bookings change. JWT authentication, and a responsive layout built with Tailwind and shadcn/ui.
 
-![VS Code](assets/badges/vscode.svg) ![TypeScript](assets/badges/typescript.svg)
+![React](assets/badges/react.svg) ![Tailwind](assets/badges/tailwind.svg) ![shadcn/ui](assets/badges/shadcn.svg) ![Express](assets/badges/express.svg) ![MongoDB](assets/badges/mongodb.svg)
 
-**[Source](https://github.com/Armstain/smart-class-lookup)**
-
-<br clear="all">
-
-### ▸ Full-stack products
-
-#### [ExpressLane](https://github.com/Armstain/Expresslane)
-
-<img align="right" src="assets/projects/expresslane.svg" width="380" alt="ExpressLane — parcel delivery platform">
-
-Parcel delivery, simplified: book a pickup in under a minute, follow every step of the journey, and pay once it arrives. A React and Vite front end sits on an Express API with Prisma and PostgreSQL, Stripe handles payments, and CI runs on every push.
-
-![React](assets/badges/react.svg) ![Express](assets/badges/express.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Prisma](assets/badges/prisma.svg) ![Stripe](assets/badges/stripe.svg)
-
-**[Source](https://github.com/Armstain/Expresslane)** · **[Live demo](https://expreane-c2384.web.app/)**
+**[Live app](https://roomify-3c4bc.web.app/)** · **[Source](https://github.com/Armstain/roomify)**
 
 <br clear="all">
 
-#### [DevRadar](https://github.com/Armstain/devRadar)
+#### [Stay Vista](https://real-estate-auth-aa66d.web.app/)
 
-<img align="right" src="assets/projects/devradar.svg" width="380" alt="DevRadar — job application tracker">
+<img align="right" src="https://i.ibb.co/m0237JX/Screenshot-2024-07-04-at-17-25-44-Details.png" width="380" alt="Stay Vista property listing details page">
 
-A job-application tracker: move applications through stages, see your pipeline at a glance, add, edit, and delete entries, or import a whole spreadsheet from CSV.
+A stays and real-estate listing site built with React, responsive across devices, styled with Tailwind CSS and secured with Firebase authentication.
 
-![Next.js](assets/badges/nextjs.svg) ![TypeScript](assets/badges/typescript.svg) ![MongoDB](assets/badges/mongodb.svg)
+![React](assets/badges/react.svg) ![Tailwind](assets/badges/tailwind.svg) ![Firebase](assets/badges/firebase.svg)
 
-**[Source](https://github.com/Armstain/devRadar)**
+**[Live app](https://real-estate-auth-aa66d.web.app/)**
 
 <br clear="all">
 
@@ -99,30 +69,26 @@ A job-application tracker: move applications through stages, see your pipeline a
 ## ◆ GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Armstain&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=transparent&amp;disable_animations=true&amp;hide=issues,contributed_to" alt="Public GitHub activity: stars earned, commits, and pull requests" width="460">
+<img src="assets/stats.svg" alt="Public GitHub activity: commits, pull requests, stars and most used languages" width="700">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armstain&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Most used languages" width="460">
-<br>
-<sub>Public GitHub activity; counts reflect GitHub's available statistics and may be cached.</sub>
+<sub>Public GitHub activity, refreshed daily.</sub>
 </div>
 
 ---
 
 ## ◆ Toolkit
 
-Drawn from what the projects above actually run on.
+<div align="center">
 
-**Frontend**
-![React](assets/badges/react.svg) ![Next.js](assets/badges/nextjs.svg) ![TypeScript](assets/badges/typescript.svg) ![JavaScript](assets/badges/javascript.svg) ![Tailwind](assets/badges/tailwind.svg) ![Framer Motion](assets/badges/framer-motion.svg) ![shadcn/ui](assets/badges/shadcn.svg) ![React Query](assets/badges/react-query.svg)
+| Layer | Technologies |
+|:---|:---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000?style=flat-square&logo=shadcnui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) |
+| **Tooling** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Pullstate](https://img.shields.io/badge/Pullstate-764ABC?style=flat-square&logo=redux&logoColor=white) |
 
-**Backend & data**
-![Node.js](assets/badges/nodejs.svg) ![Express](assets/badges/express.svg) ![MongoDB](assets/badges/mongodb.svg) ![Mongoose](assets/badges/mongoose.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Prisma](assets/badges/prisma.svg) ![Firebase](assets/badges/firebase.svg) ![Stripe](assets/badges/stripe.svg)
-
-**AI & extensions**
-![Gemini](assets/badges/gemini.svg) ![Groq](assets/badges/groq.svg) ![Chrome Extensions](assets/badges/chrome-extensions.svg) ![VS Code](assets/badges/vscode.svg)
-
-**Tooling & design**
-![Vite](assets/badges/vite.svg) ![Git](assets/badges/git.svg) ![GitHub Actions](assets/badges/github-actions.svg) ![Figma](assets/badges/figma.svg) ![Photoshop](assets/badges/photoshop.svg)
+</div>
 
 ---
 
@@ -140,6 +106,6 @@ Drawn from what the projects above actually run on.
 
 <div align="center">
 
-Want to work together? **[nazmulhossainadnan0@gmail.com](mailto:nazmulhossainadnan0@gmail.com)** — or the source of the projects above is the best reference for how I build.
+Want to work together? **[nazmulhossainadnan0@gmail.com](mailto:nazmulhossainadnan0@gmail.com)**
 
 </div>
